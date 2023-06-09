@@ -1,3 +1,5 @@
+%This is the file we used that captures vibrational data and converts it into a way that is more easily useable for us. 
+
 classdef timedat
     % TIMEDAT Container class for measured time series
     % data, sampling and geometry
