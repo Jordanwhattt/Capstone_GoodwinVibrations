@@ -1,3 +1,5 @@
+%This file was downloaded 
+
 function split = splitcolorplot(x,y,val,fmt1,fmt2)
 % SPLITCOLORPLOT Plots graph split into two colors above and below a given threshold value
 %   SPLITCOLORPLOT(X,Y,VAL) plots vector Y against vector X, using one
