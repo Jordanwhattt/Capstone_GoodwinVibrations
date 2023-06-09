@@ -1,3 +1,4 @@
+%This file simply plots the kurtosis value of each window.
 function plots = kurtosis_plot(time, y_array, time_arr, kurtosis_data, threshold, x1, x2)
 
 tiledlayout(2,1);
